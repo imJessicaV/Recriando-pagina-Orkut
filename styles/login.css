@@ -51,9 +51,8 @@
 }
 
 .fields__remember{
-    margin: 20px;
-    
-
+    margin-bottom: 20px;
+    color: rgb(71, 69, 69);
 }
 
 #btnlogin{
@@ -91,4 +90,8 @@
 
 .logo > img{
     height: 100px;
+}
+
+.conta{
+    color: rgb(24, 24, 24);
 }
