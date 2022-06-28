@@ -1,9 +1,6 @@
 
 
-:root{
-    background-color: #dbb6ee;
-    font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
-}
+
 .container{
     width: 80%;
     height: 70vh;
@@ -18,9 +15,7 @@
 
     max-width: 500px;
 }
-.pinkfont{
-    color: #f31c87;
-}
+
 
 .fields{
     margin: 5% 10%;
@@ -58,12 +53,11 @@
 #btnlogin{
     width: 100%;
     border: none;
-    background-color:  #f31c87;
     color: white;
     padding: 10px;
     border-radius: 8px;
     margin-bottom: 15px;
-    cursor: pointer;
+    
 }
 
 .fields__recovery > a, .fields__create > a{
@@ -95,3 +89,4 @@
 .conta{
     color: rgb(24, 24, 24);
 }
+
